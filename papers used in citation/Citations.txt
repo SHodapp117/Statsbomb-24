@@ -1,0 +1,11 @@
+Decroos, Tom, et al. "Actions Speak Louder than Goals: Valuing Player Actions in Soccer." The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '19), 4-8 Aug. 2019, Anchorage, AK, USA. ACM, New York, NY, USA. [file-s36boVLaCJVSzPjHtgzYyQ3P].
+
+Yeung, Calvin, and Rory Bunker. "An Events and 360 Data-Driven Approach for Extracting Team Tactics and Evaluating Performance in Football." Graduate School of Informatics, Nagoya University, Nagoya, Japan.
+
+Hassard, Peter, and Dermot Kerr. "Predicting Football Match Outcomes using Event Data and Machine Learning Algorithms." School of Computing, Engineering and Intelligent Systems, Ulster University, Northern Ireland.
+
+Kröckel, Pavlina. "Decision Support Enhancement for Player Substitution in Football: A Design Science Approach." Institute of Information Systems, Friedrich-Alexander University of Erlangen-Nuremberg, Nuremberg, Germany.
+
+Kröckel, Pavlina. "Substitutions in Football – What Coaches Think and What Coaches Do.".
+
+Tureen, Tahmeed, and Sigrid Olthof. "Estimated Player Impact (EPI): Quantifying The Effects Of Individual Players On Football Actions.".
