@@ -1,4 +1,4 @@
-Decroos, Tom, et al. "Actions Speak Louder than Goals: Valuing Player Actions in Soccer." The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '19), 4-8 Aug. 2019, Anchorage, AK, USA. ACM, New York, NY, USA. [file-s36boVLaCJVSzPjHtgzYyQ3P].
+Decroos, Tom, et al. "Actions Speak Louder than Goals: Valuing Player Actions in Soccer." The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '19), 4-8 Aug. 2019, Anchorage, AK, USA. ACM, New York, NY, USA.
 
 Yeung, Calvin, and Rory Bunker. "An Events and 360 Data-Driven Approach for Extracting Team Tactics and Evaluating Performance in Football." Graduate School of Informatics, Nagoya University, Nagoya, Japan.
 
